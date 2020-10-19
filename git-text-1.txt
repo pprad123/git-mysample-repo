@@ -1,6 +1,6 @@
 git status -> print the status of the git repository
 git init -> initialise the git repository(2nd time)
-git add “”
+git add “” -> add local repository
 git status
 git commit -m “”
 git status

@@ -14,6 +14,17 @@ git config --global user.name "pprad123"
 git config --global user.email "preetipradhan2005@gmail.com"
 
 
+For branching
+-------------
+git branch
+git checkout -b privatebranch1--------to create a branch privatebranch1
+git checkout  privatebranch1--------switch to the branch
+git status
+git add *
+git commit -m "comment for commit"
+git push origin privatebranch1
+git checkout  privatebranch2
+=======
 To add your file in GitHub
 ----------------------------
 git remote add origin master <url> -----for nor Mal file not cloned
@@ -21,10 +32,7 @@ git push origin master -----for cloned file
 
 To pull file from GitHub
 --------------------------
-git pull----pull the files from GitHub repo to local repo
+git pull----pull the files from GitHub repo to local repository
 
-
-
-
-
+-----This is the fix
 

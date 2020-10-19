@@ -1,0 +1,9 @@
+git status -> print the status of the git repository
+git init -> initialise the git repository(2nd time)
+git add “”
+git status
+git commit -m “”
+git status
+git log
+git diff
+

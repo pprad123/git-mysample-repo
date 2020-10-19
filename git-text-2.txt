@@ -13,3 +13,17 @@ git config user.email "preetipradhan2005@gmail.com"
 git config --global user.name "pprad123"
 git config --global user.email "preetipradhan2005@gmail.com"
 
+
+
+
+For branching
+-------------
+git branch
+git checkout -b privatebranch1--------to create a branch privatebranch1
+git checkout  privatebranch1--------switch to the branch
+git status
+git add *
+git commit -m "comment for commit"
+git push origin privatebranch1
+git checkout  privatebranch2
+

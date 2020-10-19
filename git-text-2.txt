@@ -1,0 +1,15 @@
+git status -> print the status of the git repository
+git init -> initialise the git repository
+git add “” -> add local repository
+git status ->print the status of the git repository
+git commit -m “”
+git status
+git log
+git diff <filename>
+
+git config user.name "pprad123"---------------------for specific repository
+git config user.email "preetipradhan2005@gmail.com"
+
+git config --global user.name "pprad123"
+git config --global user.email "preetipradhan2005@gmail.com"
+

@@ -13,3 +13,12 @@ git config user.email "preetipradhan2005@gmail.com"
 git config --global user.name "pprad123"
 git config --global user.email "preetipradhan2005@gmail.com"
 
+
+To add your file in GitHub
+----------------------------
+git remote add origin master <url> -----for nor Mal file not cloned
+git push origin master -----for cloned file
+
+To pull file from GitHub
+--------------------------
+git pull----pull the files from GitHub repo to local repo

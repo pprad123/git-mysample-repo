@@ -22,3 +22,9 @@ git push origin master -----for cloned file
 To pull file from GitHub
 --------------------------
 git pull----pull the files from GitHub repo to local repo
+
+
+
+
+
+
